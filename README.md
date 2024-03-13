@@ -1,8 +1,9 @@
-### Modelo de Previsão de Preços de Ações
+### A prediction model for stock prices
 
-* Esses modelos são usados para prever o preço de uma ação ou um índice para um período futuro.
-* Esses dados são conhecidos como dados de séries temporais univariadas. Você pode usar modelos da classe ARIMA (AR, MA, ARMA, ARIMA) ou usar modelos de Suavização Exponencial.
-* Verificar os modelos de suavização exponencial.
+These models are used to predict the price of a stock or an index for a future period.
+
+These data are known as univariate time series data. You can use models from the ARIMA class (AR, MA, ARMA, ARIMA) or employ Exponential Smoothing models.
+
 
 - [Link](https://medium.com/@joaovictordds/an%C3%A1lise-explorat%C3%B3ria-de-petrobr%C3%A1s-utilizando-python-628f69ab5011) da análise dos últios resultados da companhia (em português).
   
